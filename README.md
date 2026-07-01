@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/Samuel-Msqt/Samuel-Msqt/blob/main/img/airboss-vorenzzia.gif" alt="Fan" align="center">
+<img src="https://github.com/Samuel-Msqt/Samuel-Msqt/blob/main/img/airboss-vorenzzia.gif" alt="Fan" align="center" width="100px">
 </div>
 
 <div align="center">
