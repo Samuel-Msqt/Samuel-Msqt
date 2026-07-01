@@ -16,7 +16,9 @@ to my personal GitHub profile! <img src="https://media.giphy.com/media/hvRJCLFzc
 </a>
 </h3>
 
-
+<p>
+  I love FOSS (Free and Open-Source Software).
+</p>
 <!-- <div align="center">
   <img src="https://github.com/Samuel-Msqt/Samuel-Msqt/blob/main/img/banner.png" alt="Banner" />
 </div>
@@ -28,8 +30,6 @@ PhD student @ LPSC
 </div>
 
 ---
-
-<!-- ## <div align="center">About Me</div> -->
 
 <div align="center"> 
 
