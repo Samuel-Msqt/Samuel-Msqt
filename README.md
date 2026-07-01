@@ -10,8 +10,8 @@ PhD student @ LPSC
 
 ---
 
-<!--## <div align="center">About Me</div>
-<div align="center"> -->
+<!--## <div align="center">About Me</div>-->
+<div align="center"> 
 
 You can find more about my work, projects and skills in my portfolio: [msqt.fr](https://msqt.fr/)
 
