@@ -17,8 +17,12 @@ to my personal GitHub profile! <img src="https://media.giphy.com/media/hvRJCLFzc
 </h3>
 
 <p>
-  I love FOSS (Free and Open-Source Software).
+  I 💖 FOSS (Free and Open-Source Software) and don't like Google. 
 </p>
+
+<div align="center">
+<img src="https://github.com/Samuel-Msqt/Samuel-Msqt/blob/main/img/privacypack.png" alt="privacypack" align="center">
+</div>
 <!-- <div align="center">
   <img src="https://github.com/Samuel-Msqt/Samuel-Msqt/blob/main/img/banner.png" alt="Banner" />
 </div>
