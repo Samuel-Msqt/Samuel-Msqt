@@ -1,4 +1,21 @@
-## Hi there 👋
+![Banner](banner.png)
+
+# <div align="center">Hello! I’m Louis!</div>
+
+<div align="center"> 
+PhD student @ LPSC
+</div>
+
+---
+
+## <div align="center">About Me</div>
+<div align="center"> 
+
+You can find more about my work, projects and skills in my portfolio: [msqt.fr](https://msqt.fr/)
+
+<img src="https://komarev.com/ghpvc/?username=Samuel-Msqt&&style=flat-square" align="center" />
+
+</div>
 
 <!--
 **Samuel-Msqt/Samuel-Msqt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
