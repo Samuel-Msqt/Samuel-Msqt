@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner.png" alt="Banner" />
+  <img src="../img/banner.png" alt="Banner" />
 </div>
 
 # <div align="center">Hello! I’m Samuel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
