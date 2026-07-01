@@ -1,6 +1,6 @@
 
 <div align="center">
-<img src="https://github.com/Samuel-Msqt/Samuel-Msqt/blob/main/img/airboss-vorenzzia.gif" alt="Fan" align="center" width="100px">
+<img src="https://github.com/Samuel-Msqt/Samuel-Msqt/blob/main/img/airboss-vorenzzia.gif" alt="Fan" align="center" width="150px">
 </div>
 
 <div align="center">
@@ -17,7 +17,7 @@ to my personal GitHub profile! <img src="https://media.giphy.com/media/hvRJCLFzc
 </h3>
 
 
-<div align="center">
+<!-- <div align="center">
   <img src="https://github.com/Samuel-Msqt/Samuel-Msqt/blob/main/img/banner.png" alt="Banner" />
 </div>
 
@@ -33,7 +33,7 @@ PhD student @ LPSC
 
 <div align="center"> 
 
-You can find more about my work, projects and skills in my portfolio: [msqt.fr](https://msqt.fr/)
+You can find more about my work, projects and skills in my portfolio: [msqt.fr](https://msqt.fr/) -->
 
 <img src="https://komarev.com/ghpvc/?username=Samuel-Msqt&&style=flat-square" align="center" />
 <!-- Image credit : DECaPS2/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURA; Image processing: M. Zamani & D. de Martin (NSF’s NOIRLab) -->
