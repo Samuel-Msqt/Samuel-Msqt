@@ -1,3 +1,22 @@
+
+<div align="center">
+<img src="https://github.com/Samuel-Msqt/Samuel-Msqt/blob/main/img/airboss-vorenzzia.gif" alt="Fan" align="center">
+</div>
+
+<div align="center">
+<img src="https://github.com/Samuel-Msqt/Samuel-Msqt/blob/main/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
+
+<div align="center">
+to my personal GitHub profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
+
+<h3 align="center">
+<a href="https://msqt.fr">Visit my personal website
+<img src="https://github.com/Samuel-Msqt/Samuel-Msqt/blob/main/img/website.gif" alt="Visit my website" align="center">
+</a>
+</h3>
+
+
 <div align="center">
   <img src="https://github.com/Samuel-Msqt/Samuel-Msqt/blob/main/img/banner.png" alt="Banner" />
 </div>
