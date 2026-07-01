@@ -10,13 +10,13 @@ PhD student @ LPSC
 
 ---
 
-## <div align="center">About Me</div>
-<div align="center"> 
+<!--## <div align="center">About Me</div>
+<div align="center"> -->
 
 You can find more about my work, projects and skills in my portfolio: [msqt.fr](https://msqt.fr/)
 
 <img src="https://komarev.com/ghpvc/?username=Samuel-Msqt&&style=flat-square" align="center" />
-<!-- Image credit : DECaPS2/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURA; Image processing: M. Zamani & D. de Martin (NSF’s NOIRLab)-->
+<!-- Image credit : DECaPS2/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURA; Image processing: M. Zamani & D. de Martin (NSF’s NOIRLab) -->
 </div>
 
 <!--
