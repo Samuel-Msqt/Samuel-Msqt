@@ -1,6 +1,6 @@
 ![Banner](banner.png)
 
-# <div align="center">Hello! I’m Louis!</div>
+# <div align="center">Hello! I’m Samuel!</div>
 
 <div align="center"> 
 PhD student @ LPSC
@@ -14,7 +14,7 @@ PhD student @ LPSC
 You can find more about my work, projects and skills in my portfolio: [msqt.fr](https://msqt.fr/)
 
 <img src="https://komarev.com/ghpvc/?username=Samuel-Msqt&&style=flat-square" align="center" />
-
+<!-- Image credit : DECaPS2/DOE/FNAL/DECam/CTIO/NOIRLab/NSF/AURA; Image processing: M. Zamani & D. de Martin (NSF’s NOIRLab)-->
 </div>
 
 <!--
