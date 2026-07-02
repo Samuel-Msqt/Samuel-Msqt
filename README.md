@@ -28,8 +28,9 @@ to my personal GitHub profile! <img src="https://media.giphy.com/media/hvRJCLFzc
 <img src="https://komarev.com/ghpvc/?username=Samuel-Msqt&&style=flat-square" align="center" />
 </div>
 
-
+<!-- 
 # <div align="center">Hello! I’m Samuel! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></div>
+-->
 
 <!-- <div align="center">
   <img src="https://github.com/Samuel-Msqt/Samuel-Msqt/blob/main/img/banner.png" alt="Banner" />
