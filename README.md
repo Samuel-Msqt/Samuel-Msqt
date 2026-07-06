@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<img src="https://github.com/Samuel-Msqt/Samuel-Msqt/blob/main/img/welcome-fire.gif" alt="Welcome" align="center" width="300px">
+<img src="https://github.com/Samuel-Msqt/Samuel-Msqt/blob/main/img/welcome-fire.gif" alt="Welcome" align="center" width="700px">
 </div>
 
 <div align="center">
