@@ -17,7 +17,7 @@ to my personal GitHub profile! <img src="https://media.giphy.com/media/hvRJCLFzc
 </h3>
 
 <p>
-  I 💖 FOSS (Free and Open-Source Software) and don't like Google. 
+  I 💖 digital privacy & FOSS (Free and Open-Source Software) and not Google. 
 </p>
 
 <div align="center">
